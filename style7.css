@@ -1,0 +1,17 @@
+.container{
+    max-width: 900px;
+    margin: 0 auto;
+}
+.box1, .box2{
+    background-color: rgb(152, 219, 135);
+    float: left;
+    margin: 20px;
+}
+.box1{
+    width: 280px;
+    height: 900px;
+}
+.box2{
+    width: 480px;
+    height: 900px;
+}
