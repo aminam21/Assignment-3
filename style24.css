@@ -1,0 +1,23 @@
+div{
+    max-width: 800px;
+    max-height: 1000px;
+    margin: 20px;
+    padding: 0px;
+    float: right;
+}
+
+.box1{
+    width: 200px;
+    height: 900px;
+    background-color: rgb(94, 4, 71);
+}
+.box2, .box5{
+    width: 440px;
+    height: 200px;
+    background-color: rgb(94, 4, 71);
+}
+.box3, .box4{
+    width: 200px;
+    height: 420px;
+    background-color: rgb(94, 4, 71);
+}
