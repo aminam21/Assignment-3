@@ -1,19 +1,23 @@
-.container{
-    padding: 10px;
+div{
+    max-width: 800px;
+    max-height: 1000px;
+    margin: 20px;
+    padding: 0px;
+    float: right;
 }
-.box1, .box2, .box3, .box4{
-    background-color: rgb(94, 4, 71);
-    margin: 10px;
-}
+
 .box1{
-    width: 440px;
-    height: 200px;
-}
-.box2{
     width: 200px;
     height: 800px;
+    background-color: rgb(94, 4, 71);
+}
+.box2{
+    width: 440px;
+    height: 200px;
+    background-color: rgb(94, 4, 71);
 }
 .box3, .box4{
     width: 200px;
     height: 560px;
+    background-color: rgb(94, 4, 71);
 }
