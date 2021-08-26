@@ -2,7 +2,7 @@
     padding: 10px;
 }
 .box1, .box2, .box3, .box4{
-    background-color: rgb(228, 169, 243);
+    background-color: rgb(94, 4, 71);
     margin: 10px;
 }
 .box1{
@@ -13,11 +13,7 @@
     width: 200px;
     height: 800px;
 }
-.box3{
-    width: 200px;
-    height: 560px;
-}
-.box4{
+.box3, .box4{
     width: 200px;
     height: 560px;
 }

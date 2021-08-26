@@ -3,7 +3,7 @@
     margin: 0 auto;
 }
 .box1, .box2, .box3{
-    background-color: sienna;
+    background-color: rgb(94, 4, 71);
     float: left;
     margin: 20px;
 }
