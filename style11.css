@@ -1,0 +1,17 @@
+.container{
+    max-width: 900px;
+    margin: 0 auto;
+}
+.box1, .box2, .box3, .box4{
+    background-color: rgb(170, 123, 162);
+    float: left;
+    margin: 20px;
+}
+.box1{
+    width: 800px;
+    height: 200px;
+}
+.box2, .box3, .box4{
+    width: 240px;
+    height: 700px;
+}
